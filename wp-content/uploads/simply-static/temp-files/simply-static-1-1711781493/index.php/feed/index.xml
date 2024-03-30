@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kidhar milega </title>
+	<atom:link href="http://localhost/3website/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/3website</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Mar 2024 17:21:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://localhost/3website/index.php/2024/03/16/hello-world/</link>
+					<comments>http://localhost/3website/index.php/2024/03/16/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2024 17:21:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/3website/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2024/03/16/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tips for renting a house</title>
+		<link>http://localhost/3website/index.php/2021/11/17/tips-for-renting-a-house/</link>
+					<comments>http://localhost/3website/index.php/2021/11/17/tips-for-renting-a-house/#comments</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 09:56:17 +0000</pubDate>
+				<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=113</guid>
+
+					<description><![CDATA[Morbi scelerisque, neque ut vehicula varius, metus eros accumsan mauris, vel egestas arcu leo sit amet dolor. Praesent varius nisl at cursus vestibulum. Etiam fermentum pellentesque risus lacinia suspendisse quis tellus nisi. Sed ac dolor ac eros euismod molestie in vitae ipsum.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/17/tips-for-renting-a-house/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top home office ideas</title>
+		<link>http://localhost/3website/index.php/2021/11/16/top-home-office-ideas/</link>
+					<comments>http://localhost/3website/index.php/2021/11/16/top-home-office-ideas/#respond</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Tue, 16 Nov 2021 09:55:00 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[lectus]]></category>
+		<category><![CDATA[lorem]]></category>
+		<category><![CDATA[magna]]></category>
+		<category><![CDATA[sodales]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=110</guid>
+
+					<description><![CDATA[Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla quis vestibulum metus. Vestibulum dolor massa, ullamcorper vel augue sed, vestibulum suscipit quam. Vivamus in ante faucibus, rhoncus felis at, sagittis tellus iaculis metus diam ultrices.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/16/top-home-office-ideas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Starting a small business</title>
+		<link>http://localhost/3website/index.php/2021/11/15/starting-a-small-business/</link>
+					<comments>http://localhost/3website/index.php/2021/11/15/starting-a-small-business/#respond</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Mon, 15 Nov 2021 09:55:00 +0000</pubDate>
+				<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[dapibus]]></category>
+		<category><![CDATA[elit]]></category>
+		<category><![CDATA[libero]]></category>
+		<category><![CDATA[sapien]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=107</guid>
+
+					<description><![CDATA[Phasellus nec velit velit. Praesent vitae commodo eros. Morbi maximus nisi massa, eget ultricies lectus sodales sed. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac dolor nec tellus imperdiet convallis at vel odio nunc luctus ipsum sem, faucibus justo rhoncus.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/15/starting-a-small-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aenean sed pulvinar et diam</title>
+		<link>http://localhost/3website/index.php/2021/11/14/aenean-sed-pulvinar-et-diam/</link>
+					<comments>http://localhost/3website/index.php/2021/11/14/aenean-sed-pulvinar-et-diam/#respond</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2021 16:00:29 +0000</pubDate>
+				<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[dapibus]]></category>
+		<category><![CDATA[elit]]></category>
+		<category><![CDATA[libero]]></category>
+		<category><![CDATA[sapien]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=145</guid>
+
+					<description><![CDATA[Phasellus nec velit velit. Praesent vitae commodo eros. Morbi maximus nisi massa, eget ultricies lectus sodales sed. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac dolor nec tellus imperdiet convallis at vel odio nunc luctus ipsum sem, faucibus justo rhoncus.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/14/aenean-sed-pulvinar-et-diam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Class aptent taciti id sociosqu</title>
+		<link>http://localhost/3website/index.php/2021/11/13/class-aptent-taciti-id-sociosqu/</link>
+					<comments>http://localhost/3website/index.php/2021/11/13/class-aptent-taciti-id-sociosqu/#respond</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Sat, 13 Nov 2021 16:00:25 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[lectus]]></category>
+		<category><![CDATA[lorem]]></category>
+		<category><![CDATA[magna]]></category>
+		<category><![CDATA[sodales]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=144</guid>
+
+					<description><![CDATA[Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla quis vestibulum metus. Vestibulum dolor massa, ullamcorper vel augue sed, vestibulum suscipit quam. Vivamus in ante faucibus, rhoncus felis at, sagittis tellus iaculis metus diam ultrices.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/13/class-aptent-taciti-id-sociosqu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Orci varius natoque penatibus</title>
+		<link>http://localhost/3website/index.php/2021/11/12/orci-varius-natoque-penatibus/</link>
+					<comments>http://localhost/3website/index.php/2021/11/12/orci-varius-natoque-penatibus/#respond</comments>
+		
+		<dc:creator><![CDATA[Hasnain1]]></dc:creator>
+		<pubDate>Fri, 12 Nov 2021 16:00:21 +0000</pubDate>
+				<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+		<guid isPermaLink="false">https://listinghive.hivepress.io/?p=143</guid>
+
+					<description><![CDATA[Morbi scelerisque, neque ut vehicula varius, metus eros accumsan mauris, vel egestas arcu leo sit amet dolor. Praesent varius nisl at cursus vestibulum. Etiam fermentum pellentesque risus lacinia suspendisse quis tellus nisi. Sed ac dolor ac eros euismod molestie in vitae ipsum.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor nisl eget lacinia gravida. Ut in scelerisque lectus. Nunc non imperdiet magna, fermentum convallis libero. Cras nec orci eget tortor fermentum tempor ac pellentesque metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam sed blandit dolor, eget convallis dui. Suspendisse interdum lectus elit, ut porttitor odio dignissim vitae. Integer faucibus efficitur gravida nulla rhoncus.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Morbi et magna vel justo tempor consectetur in ut diam. Donec dapibus nisi in nisl dictum, sit amet tincidunt nulla mattis. Integer nec neque orci. Vivamus lacus augue commodo, ut cursus ligula rutrum mollis augue at magna rhoncus porttitor.</p></blockquote>
+
+
+
+<p>Proin consectetur faucibus ipsum sodales pharetra. Pellentesque facilisis arcu at vehicula pulvinar. Maecenas quis tortor ultrices enim hendrerit vehicula a non lectus. Aliquam eget commodo ante. Integer ut vehicula lacus, ac porttitor sem. In tristique mollis bibendum. Vestibulum viverra, nisl nec tempus vulputate, eros orci ultrices mi, in cursus mi mi non neque. Vestibulum semper turpis ac massa varius, et congue lacus dignissim. Donec et porta urna, vulputate dapibus elit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/3website/index.php/2021/11/12/orci-varius-natoque-penatibus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
